@@ -8,7 +8,7 @@ setup(
   author = 'Mojeed Abisiga',                   # Type in your name
   author_email = 'abisigadamilola@gmail.com',      # Type in your E-Mail
   url = 'https://github.com/ABIMATHS78/ChunkProcessingContinuation',   # Provide either the link to your github or to your website
-  download_url = 'https://github.com/ABIMATHS78/ChunkProcessingContinuation/archive/v_01.tar.gz',    # I explain this later on
+  download_url = 'https://github.com/ABIMATHS78/ChunkProcessingContinuation/archive/refs/tags/v_01.tar.gz',    # I explain this later on
   keywords = ['large', 'files', 'pandas', 'chunks', 'stopped', 'python', 'dataframe', 'interrupted', 'shutdown', 'continue', 'processing'],   # Keywords that define your package best
   install_requires=[            # I get to this in a second
           'pandas',
